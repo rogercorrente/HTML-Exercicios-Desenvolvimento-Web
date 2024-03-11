@@ -1,7 +1,7 @@
 # HTML-Exercicios-Desenvolvimento-Web
 Exercicios da disciplina de Desenvolvimento Web
 
-Introdução
+# Introdução
 Exercício 1.1 Quais são os 3 tipos de códigos básicos de uma página de hipertexto? Explique para que serve cada um dos tipos.
 
 Exercício 1.2 Quantos arquivos CSS e Javascript podem estar vinculados a uma mesma página de hipertexto? Justifique sua resposta.
@@ -12,7 +12,7 @@ Exercício 1.4 Descreva a diferença entre uma página de hipertexto estática e
 
 Exercício 1.5 Qual é o caminho percorrido por uma requisição HTTP a uma página de hipertexto estática?
 
-Documentos HTML e CSS
+# Documentos HTML e CSS
 Exercício 2.1 Qual é o elemento HTML que contém todos os demais elementos de uma página?
 
 Exercício 2.2 Qual é o elemento HTML que contém elementos com metainformações sobre uma página web?
@@ -21,7 +21,7 @@ Exercício 2.3 Qual é o elemento HTML que contém todos os elementos de conteú
 
 Exercício 2.4 Qual é o elemento HTML que permite associar um documento CSS a uma página web na seção de metainformações?
 
-Textos
+# Textos
 Exercício 3.1 Crie uma página HTML com seis títulos de diferentes níveis (1 a 6) e, abaixo de cada título, um parágrafo de texto com 50 palavras (use lorem ipsum)
 
 Exercício 3.2 Adicione à página criada no exercício 3.1 links ancorados em todos os parágrafos para voltarem ao título de nível 1
@@ -32,7 +32,7 @@ Exercício 3.4 Adicione, ao início da página criada no exercício 3.1, dentro 
 
 Exercício 3.5 Crie um documento HTML que mostre o trecho de código-fonte apresentado no exemplo 2.3, combinando os elementos pre e code para apresentar o código da melhor forma possível.
 
-Lista de Tabelas
+# Lista de Tabelas
 Exercício 4.1 Crie uma lista de compras de supermercado com pelo menos 5 itens.
 
 Exercício 4.2 Crie uma lista de características de um produto ou serviço oferecido por uma loja virtual qualquer.
@@ -43,7 +43,7 @@ Exercício 4.4 Crie uma lista numerada de passos para realizar uma receita de bo
 
 Exercício 4.5 Crie uma lista de rankings ou classificações como os melhores filmes que você já assistiu.
 
-Imagens
+# Imagens
 Exercício 5.1 Crie uma imagem com o atributo src apontando para o arquivo “imagem.jpg” e com um texto alternativo “Imagem de um gato”.
 
 Exercício 5.2 Crie uma imagem para o arquivo local “cachorro.jpg” com uma largura de 400 pixels e uma altura de 300 pixels.
@@ -54,7 +54,7 @@ Exercício 5.4 Crie uma imagem para o arquivo “logo.png” e com texto alterna
 
 Exercício 5.5 Crie um elemento 
 
-Áudio e Vídeo
+# Áudio e Vídeo
 Exercício 6.1 Crie um elemento de áudio com o atributo controls e adicione dois elementos source com diferentes formatos de áudio para que o navegador possa escolher qual usar com base na compatibilidade.
 
 Exercício 6.2 Adicione um elemento de áudio com uma música embutida, dois elementos com diferentes formatos de áudio e um elemento track com a letra da música.
@@ -65,7 +65,7 @@ Exercício 6.4 Adicione um elemento de áudio com um atributo loop para que o á
 
 Exercício 6.5 Crie um elemento de áudio com um atributo preload definido como “none” e adicione dois elementos source com diferentes formatos de áudio para que o navegador não carregue o áudio previamente.
 
-Formulários
+# Formulários
 Exercício 7.1 Crie um formulário HTML com um campo de texto para o atributo nome e um botão de envio. Utilize o atributo action do elemento
 
 para enviar o formulário para uma página PHP ou outro script do lado do servidor.
