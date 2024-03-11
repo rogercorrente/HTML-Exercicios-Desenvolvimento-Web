@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Exercicio 7.5</title>
+</head>
+<body>
+
+<form action="mailto: ifescachoeiro@gmail.com" method="post" enctype="text/plain">
+    <label for="email">E-mail:</label>
+    <input type="email" id="email" name="email" required>
+    <br><br>
+    
+    <label for="assunto">Assunto:</label>
+    <select id="assunto" name="assunto" required>
+        <option value="duvida">Dúvida</option>
+        <option value="sugestao">Sugestão</option>
+        <option value="reclamacao">Reclamação</option>
+    </select>
+    <br><br>
+    
+    <label for="mensagem">Mensagem:</label><br>
+    <textarea id="mensagem" name="mensagem" rows="5" cols="50" required></textarea>
+    <br><br>
+    
+    <button type="submit">Enviar</button>
+</form>
+
+</body>
+</html>
