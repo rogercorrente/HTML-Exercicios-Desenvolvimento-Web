@@ -30,7 +30,8 @@ Exercício 3.3 Adicione, ao fim da página criada no exercício 3.1, dentro de u
 
 Exercício 3.4 Adicione, ao início da página criada no exercício 3.1, dentro de um novo parágrafo, um link interno apontando para uma página chamada contato.html
 
-Exercício 3.5 Crie um documento HTML que mostre o trecho de código-fonte apresentado no exemplo 2.3, combinando os elementos pre e code para apresentar o código da melhor forma possível.
+Exercício 3.7 Crie um documento HTML contendo um título de nível 1, dois parágrafos com 20
+palavras e uma citação longa (com ao menos 3 linhas).
 
 # Lista de Tabelas
 Exercício 4.1 Crie uma lista de compras de supermercado com pelo menos 5 itens.
