@@ -53,7 +53,8 @@ Exercício 5.3 Crie uma imagem com largura de 300 pixels contendo uma foto do pl
 
 Exercício 5.4 Crie uma imagem para o arquivo “logo.png” e com texto alternativo “Logotipo da empresa”, que seja um link para a página externa “https://exemplo.com”.
 
-Exercício 5.5 Crie um elemento 
+Exercício 5.5 Crie um elemento <picture> com duas resoluções diferentes de imagens, uma para telas de até 720px de altura e outra para telas com altura maior que 720px. Use nomes de arquivos
+fictícios.  
 
 # Áudio e Vídeo
 Exercício 6.1 Crie um elemento de áudio com o atributo controls e adicione dois elementos source com diferentes formatos de áudio para que o navegador possa escolher qual usar com base na compatibilidade.
